@@ -53,7 +53,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pycryptodome==3.8.2
 pyelasticsearch==1.2.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyGObject==3.30.1
 PyNaCl==1.2.1
 pyodbc==4.0.22
