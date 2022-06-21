@@ -37,7 +37,7 @@ matplotlib==2.2.2
 meld3==1.0.2
 mysql-connector-python==8.0.11
 naiveBayesClassifier==0.1.3
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.46
 OWSLib==0.16.0
 paramiko==2.4.1
